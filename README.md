@@ -1,2 +1,6 @@
-# czech-georgica
-New Czech verse translation of Virgil's Georgica
+# P. Vergilius Maro: Georgica
+## New Czech verse translation
+
+Work in progress.
+
+Free access, but all rights reserved.
